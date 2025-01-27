@@ -1,0 +1,70 @@
+Q1:
+"I do not like green eggs and ham. I do not like them, Sam-I-Am."
+Dr. Seuss. 1960. Green Eggs and Ham. Random House, New York, NY.
+
+"Alice was beginning to get very tired of sitting by her sister on the
+bank, and of having nothing to do: once or twice she had peeped into the
+book her sister was reading, but it had no pictures or conversations in
+it, 'and what is the use of a book,' thought Alice, 'without pictures or conversation?'"
+Lewis Carroll. 1865. Alice's Adventures in Wonderland. Macmillan, London.
+
+Explanation:
+This example seems to be comfortable and clear enough for a majority of native
+speakers, and yet stylistically might be different from translated biblical verses.
+The nonsensical rhymes and the wonderful playful tone of Dr. Seuss are highly different
+from the formal and solemn style of any biblical texts. The casual tone of Lewis
+Carroll's narration combined with light-hearted musings on history and the world are
+strikingly divergent from the typical Bible translation's moralizing and reverent tone.
+All the examples are quickly identifiable for what they are, children's literature, not sacred scriptures.
+
+
+Q2:
+A handwritten note that read, 'Emergency! Gas leak! Evacuate the building immediately!'
+
+Reasoning: The app trained only on Wikipedia would be biased to convert just formal,
+encyclopedic language and unfriendly in dealing with urgent, colloquial, or fragmented texts.
+The app may be unable to capture phrases relevant to the context of this emergency message,
+possibly misinterpreting crucial terms such as 'gas leak' or 'evacuate.' Mistranslation could,
+in real life, put lives at risk, e.g., a possibility of stalling a timely evacuation or not
+conveying urgency. This is an indication of the app's inability to cipher other forms of text
+beyond its training topic and why it would be dangerous to roll out translation software without
+regard for different writing styles, particularly in urgent situations.
+
+
+Q3:
+Feeding limited texts to the training of a model might offer considerable advantages for
+programming specialized or underrepresented language styles. For example, including emergency
+messages, medical instructions, or legal language improves the accuracy of translations in
+critical and high-stress situations. This should benefit emergency responders, medical professionals,
+and anyone who turns to the program for life-saving or legally accurate information. This also
+makes the system more robust and diverse in terms of possible applications and builds user confidence.
+Wider audiences, including those with minimal literacy or limited access to formal language resources,
+will benefit from broadening the range of writing styles used to educate the model.
+
+
+Q4:
+Inclusion of limited texts could weaken the general performance of the program for general-purpose
+translations as it could inject ambiguity introduction for standard text during its translation.
+Therefore, ambiguous translations might take longer to compute or, if not, would be extremely costly, and
+this would seem to disadvantage users in less resourceful settings. One could possibly not interpret
+specialized text correctly and higher chances for serious outcomes involving misinterpretation of legal terms
+in key cases for persons relying on the application. If the selected limited texts were directed finely at
+particular contexts or cultures, bias might crop in, again at the face of unequal opportunities.
+
+
+Q5:
+To balance the advantages and disadvantages, I would only allow limited texts explicitly
+targeted during training so that the program could recognize and apply the context correctly.
+This kind of approach will help the system combat specific, domain-oriented texts while keeping accuracy
+intact for general translations. Apart from this, domain adaptation and modular training
+can help ensure that the specialized data does not compromised the performance for more
+general use cases. User warnings or confidence scores could also alert users when a translation
+includes some critical text or something they don't recognize. These are just some of the ways such
+an approach may offer selected texts with advantages while mitigating the disadvantages likely to be
+faced by users from divergent backgrounds.
+
+
+
+
+
+
